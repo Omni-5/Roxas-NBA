@@ -1,0 +1,8 @@
+title: Roxas NBA
+originalAuthor: Omniツ
+description: Replaces Roxas' voice clips with basketball shoe squeaks.
+assets:
+ - name: obj/B_EX390.a.fm
+   method: copy
+   source:
+     - name: obj/B_EX390.a.fm
